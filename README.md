@@ -1,4 +1,4 @@
 # Demo-Git-commands
 This repo is created to practice Git commands
-<hr>
+<br>
 Author: Nibha Kumari
